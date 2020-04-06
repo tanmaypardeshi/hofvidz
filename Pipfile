@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 django = "*"
-widget-tweaks = "*"
 django-widget-tweaks = "*"
 requests = "*"
 unicorn = "*"
