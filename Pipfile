@@ -10,6 +10,9 @@ django = "*"
 widget-tweaks = "*"
 django-widget-tweaks = "*"
 requests = "*"
+unicorn = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
