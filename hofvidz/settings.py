@@ -1,5 +1,6 @@
 import os
 import dj_database_url
+from django.conf.global_settings import DATABASES
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -55,6 +56,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'hofvidz.wsgi.application'
+
 
 DATABASES = {
     'default': dj_database_url.config()
