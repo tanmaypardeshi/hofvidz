@@ -12,7 +12,7 @@ from django.forms.utils import ErrorList
 import requests
 import urllib
 
-YOUTUBE_API_KEY = 'AIzaSyDXHhR5KqhV2YgDnnMBwI2Nw-ZyWpRhU7I'
+YOUTUBE_API_KEY = 'your_api_key'
 
 
 def home(request):
