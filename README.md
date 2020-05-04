@@ -19,7 +19,7 @@
     2. To install dependencies required **pip3 install -r requirements.txt**
     3. Run **python manage.py makemigrations**
     4. Run **python manage.py migrate** to make migrations
-    5. Add a few questions in the database to see functioning
+    5. Add a few queries in the database to see functioning
     6. To run **python manage.py runserver**
     
 ### Snippets of the project:<br>
